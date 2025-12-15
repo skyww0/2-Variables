@@ -1,0 +1,8 @@
+a=int(input( "enter a number:"))
+b=int(input("enter another number:"))
+
+import math
+
+c=math.sqrt(a**2+b**2)
+
+print(c)
